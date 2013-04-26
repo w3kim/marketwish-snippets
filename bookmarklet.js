@@ -15,7 +15,7 @@ javascript:(function(win) {
             return;
         }
 
-        var base_url = "http://marketwish.heroku.com/";
+        var base_url = "http://mw.myungjun.org/";
         var iframe = doc.createElement("iframe");
 
         iframe.id = bmklt_id;

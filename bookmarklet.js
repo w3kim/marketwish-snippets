@@ -12,7 +12,6 @@ javascript:(function(win) {
         if (exists) {
             /* for testing purpose, allow multiple bookmarking from one site */
             exists.remove();
-            return;
         }
 
         var base_url = "http://marketwish.heroku.com/";
